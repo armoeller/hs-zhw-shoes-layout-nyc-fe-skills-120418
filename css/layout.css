@@ -25,3 +25,21 @@
 /* Positioning Classes */
 
 
+#column-section {
+  column-count: 3;
+  column-gap: 20px;
+  display: block;
+  float: left;
+  
+}
+
+.larger {
+  width:200%;ß
+}
+
+#details {
+  column-count: 3;
+}
+
+.border-right {
+}
